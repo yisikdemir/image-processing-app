@@ -1,10 +1,10 @@
-#########################################################
+################################################################################
 # Author: Yunus Emre ISIKDEMIR
 #
 # Date: 11.10.2020
 # 
-# Description: Image process application layout
-#########################################################
+# Description: Auto-generated image processing application layout by Qt designer
+################################################################################
 
 # GUI utility libraries
 from PyQt5 import QtCore, QtGui, QtWidgets
